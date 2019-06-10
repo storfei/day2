@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # y
 
 > y
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# day2
+考试
+>>>>>>> d9585d4faf60da0f08ee6469c13bb0b73b885581
